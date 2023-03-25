@@ -1,5 +1,6 @@
 UEFN INFOS
 CREATIVE 2.0/UEFN INFOS
+--
 
 ●Console players will not have access to the coding/programming part of UEFN, only pc.
 
@@ -17,16 +18,26 @@ CREATIVE 2.0/UEFN INFOS
 
 ●In order to script on console you have to have a keyboard plugged into the console. 
 
-LINKS USED TO LEARN UEFN!
-https://dev.epicgames.com/documentation/en-us/uefn/verse-glossary (VERSE GLOSSARY)
-https://dev.epicgames.com/documentation/en-us/uefn/unreal-editor-for-fortnite-documentation (UEFN DOCUMENATION)
-https://dev.epicgames.com/documentation/en-us/uefn/unreal-editor-for-fortnite-glossary (UEFN GLOSSARY)
-https://dev.epicgames.com/community/learning/courses/Yl6/fortnite-your-first-hour-in-uefn/yXkB/fortnite-your-first-hour-in-uefn-overview (MOST RECCOMMENDED)
 
-All Keyboard Shortcuts in UEFN!
+Links For UEFN Documentation
+--
 
+- [VERSE GLOSSARY](https://dev.epicgames.com/documentation/en-us/uefn/verse-glossary)
+
+- [UEFN DOCUMENATION](https://dev.epicgames.com/documentation/en-us/uefn/unreal-editor-for-fortnite-documentation)
+
+- [UEFN GLOSSARY](https://dev.epicgames.com/documentation/en-us/uefn/unreal-editor-for-fortnite-glossary)
+
+- [MOST RECCOMMENDED DOCUMENTATION](https://dev.epicgames.com/community/learning/courses/Yl6/fortnite-your-first-hour-in-uefn/yXkB/fortnite-your-first-hour-in-uefn-overview)
+
+
+
+Keyboard Shortcuts in UEFN!
+--
+- Soon
 
 Tutorials!
+--
 *How To Get The Emote Device In Any Island! (UEFN REQUIRED)*
 Step 1: Copy the text (code)
 Step 2: Open up the island you want to get the device in.
